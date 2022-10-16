@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "250610856412",
+    "project_id": "arena-9b788",
+    "storage_bucket": "arena-9b788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250610856412:android:7b21e47c52030e25251f19",
+        "android_client_info": {
+          "package_name": "com.example.dam_arenas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250610856412-aupf35h2d48g940hs82j9ihuff8dc6ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dam_arenas",
+            "certificate_hash": "5a528cefd04aae29c7a7b74e997485ab7cda894d"
+          }
+        },
+        {
+          "client_id": "250610856412-l1ouvfp06tc4tq2l8uolmjvs3d99su1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmaFysYtmyws4NcZS60prpzK70y28XJpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250610856412-l1ouvfp06tc4tq2l8uolmjvs3d99su1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
